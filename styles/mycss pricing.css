@@ -1,0 +1,15 @@
+.navbar-light .navbar-nav .nav-link.active {
+	color: #808080;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #00ffff;
+}
+
+.navbar-brand img {
+	width: 50px;
+}
+
+.navbar-toggler {
+	background-color: #808080;
+}
